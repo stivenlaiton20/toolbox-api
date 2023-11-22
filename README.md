@@ -1,5 +1,5 @@
 # toolbox-api intruciones 
--Descargar el respotiorio
-  npm install    |para instalar los modulos necesarios
-  npm star       |para correr el api 
-  npm test       |para correr los test
+# Descargar el respotiorio
+- npm install    para instalar los modulos necesarios
+- npm start      para correr el api 
+- npm test       para correr los test

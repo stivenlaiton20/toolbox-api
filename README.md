@@ -4,7 +4,7 @@
 - npm start      para correr el api 
 - npm test       para correr los test
 # tecnologias usadas 
-- node 18
+- node 
 - mocha
 - chai
 - express
